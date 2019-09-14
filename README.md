@@ -1,5 +1,8 @@
 # PRÁCTICAS MÓDULO CLOUD
 
+DOCKER HUB: https://hub.docker.com/r/jortizfdez/cloudlab
+GITHUB REPO: https://github.com/jortizfdez/cloudlab
+
 ## Preparación
 
 * Cuenta de [Docker Hub](https://hub.docker.com/)
